@@ -60,11 +60,6 @@ I write about industrial cybersecurity, credential exposure and secure engineeri
 - [What I learned scaling a credential-exposure engine to 3.8 billion records](https://hackernoon.com/what-i-learned-scaling-a-credential-exposure-engine-to-38-billion-records)
 - [Building a multi-channel phishing-simulation platform in Go for regulated industries](https://hackernoon.com/building-a-multi-channel-phishing-simulation-platform-in-go-for-regulated-industries)
 
-## 📊 GitHub
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bariskececi&show_icons=true&hide_border=true&bg_color=0d1113&title_color=f2a24a&icon_color=f2a24a&text_color=ddd6c6">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bariskececi&layout=compact&hide_border=true&bg_color=0d1113&title_color=f2a24a&text_color=ddd6c6">
-</p>
 
 ## 🔗 Connect
 [Website](https://gnsac.com.tr) · [LinkedIn](https://www.linkedin.com/in/bariskececi/) · [HackerNoon](https://hackernoon.com/u/gnsac)
