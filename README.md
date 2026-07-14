@@ -57,6 +57,7 @@ GitHub Action. `go install github.com/bariskececi/exposure-check@latest`
 ## ✍️ Writing
 I write about industrial cybersecurity, credential exposure and secure engineering on **[HackerNoon](https://hackernoon.com/u/gnsac)**:
 
+- [AI in cybersecurity is not what vendors are selling you](https://hackernoon.com/ai-in-cybersecurity-is-not-what-vendors-are-selling-you)
 - [What I learned scaling a credential-exposure engine to 3.8 billion records](https://hackernoon.com/what-i-learned-scaling-a-credential-exposure-engine-to-38-billion-records)
 - [Building a multi-channel phishing-simulation platform in Go for regulated industries](https://hackernoon.com/building-a-multi-channel-phishing-simulation-platform-in-go-for-regulated-industries)
 
